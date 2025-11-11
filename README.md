@@ -23,3 +23,25 @@ Compile and run the program using GCC:
 ```bash
 gcc Assignment.c -o Assignment
 Assignment
+```
+## Example Use
+```
+Employee Performance Management System
+1. Add Employee
+2. Update Employee
+3. Display All Employees
+4. Search Employee by Name
+5. Exit
+Please Enter your choice: 3
+```
+# Example output
+```
+Employee Records (sorted by Performance Score):
+
+Name: Alice Johnson
+ID: 101
+Salary: 72000.00
+Department: HR
+Years of Experience: 5 years
+Performance Score: 57.60
+```
